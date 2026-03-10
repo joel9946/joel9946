@@ -17,7 +17,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Joel's Stats](https://github-readme-stats.vercel.app/api?username=joel9946&show_icons=true&theme=dark)
+![Joel's Stats](https://github-readme-stats.vercel.app/api?username=joel9946&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ---
 
